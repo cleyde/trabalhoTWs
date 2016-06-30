@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2015\Projects\ConsoleApplication1\ConfTrackMng.Library.Tests\bin\Debug\ConfTrackMng.Library.Tests.dll
+C:\Users\User\documents\visual studio 2015\Projects\ConsoleApplication1\ConfTrackMng.Library.Tests\bin\Debug\ConfTrackMng.Library.Tests.pdb
+C:\Users\User\documents\visual studio 2015\Projects\ConsoleApplication1\ConfTrackMng.Library.Tests\bin\Debug\ConfTrackTWS.Library.dll
+C:\Users\User\documents\visual studio 2015\Projects\ConsoleApplication1\ConfTrackMng.Library.Tests\bin\Debug\nunit.framework.dll
+C:\Users\User\documents\visual studio 2015\Projects\ConsoleApplication1\ConfTrackMng.Library.Tests\bin\Debug\ConfTrackTWS.Library.pdb
+C:\Users\User\documents\visual studio 2015\Projects\ConsoleApplication1\ConfTrackMng.Library.Tests\bin\Debug\nunit.framework.xml
+C:\Users\User\documents\visual studio 2015\Projects\ConsoleApplication1\ConfTrackMng.Library.Tests\obj\Debug\ConfTrackMng.Library.Tests.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\ConsoleApplication1\ConfTrackMng.Library.Tests\obj\Debug\ConfTrackMng.Library.Tests.dll
+C:\Users\User\documents\visual studio 2015\Projects\ConsoleApplication1\ConfTrackMng.Library.Tests\obj\Debug\ConfTrackMng.Library.Tests.pdb

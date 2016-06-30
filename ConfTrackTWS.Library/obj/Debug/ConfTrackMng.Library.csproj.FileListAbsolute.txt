@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\ConsoleApplication1\ConfTrackTWS.Library\bin\Debug\ConfTrackTWS.Library.dll
+c:\users\user\documents\visual studio 2015\Projects\ConsoleApplication1\ConfTrackTWS.Library\bin\Debug\ConfTrackTWS.Library.pdb
+c:\users\user\documents\visual studio 2015\Projects\ConsoleApplication1\ConfTrackTWS.Library\obj\Debug\ConfTrackTWS.Library.dll
+c:\users\user\documents\visual studio 2015\Projects\ConsoleApplication1\ConfTrackTWS.Library\obj\Debug\ConfTrackTWS.Library.pdb
+C:\Users\User\documents\visual studio 2015\Projects\ConsoleApplication1\ConfTrackTWS.Library\bin\Debug\ConfTrackTWS.Library.dll.CodeAnalysisLog.xml
+C:\Users\User\documents\visual studio 2015\Projects\ConsoleApplication1\ConfTrackTWS.Library\bin\Debug\ConfTrackTWS.Library.dll.lastcodeanalysissucceeded
